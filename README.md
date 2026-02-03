@@ -1,17 +1,25 @@
 ## Personal Portfolio
 
-### [Live Site](https://jsmasterypro.com)
+### 🌐 Live Site
+[https://jsmasterypro.com](https://jsmasterypro.com)
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+## 👤 Maintainer
+- **Name:** Saii Pallapati  
+- **GitHub:** https://github.com/saiipallapati  
 
-This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
+## 📌 About the Project
+This is a personal portfolio website built using **React** and **Next.js**.  
+A portfolio acts as both a resume and a personal brand showcase for developers.
 
-In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
+This repository is adapted from a video tutorial and customized for learning and personal use.
 
-Setup:
-- run ```npm i && npm start```
+## 🛠 Tech Stack
+- React
+- Next.js
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+## ⚙️ Setup Instructions
+```bash
+npm install
+npm start
